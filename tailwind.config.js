@@ -8,7 +8,8 @@ module.exports = {
         "gray-facebook": "#f0f2f5",
       },
       spacing: {
-        "500": "580px"
+        "500": "580px",
+        "380": "380px"
       }
     },
   },
