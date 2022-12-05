@@ -3,7 +3,19 @@
 @tailwind utilities;
 
 @layer components {
+  .link {
+    @apply text-blue-facebook cursor-pointer mt-4;
+  }
+
   .input-facebook {
     @apply border-gray-300 border rounded-sm w-full h-14 mb-2.5 pl-2;
+  }
+
+  .button-login {
+    @apply h-12 w-full bg-blue-facebook rounded-md text-white;
+  }
+
+  .button-new-account {
+    @apply h-12 bg-green-facebook rounded-md text-white px-4;
   }
 }

@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         "blue-facebook": "#1877f2",
         "gray-facebook": "#f0f2f5",
+        "green-facebook": "#36a420"
       },
       spacing: {
         "500": "580px",
